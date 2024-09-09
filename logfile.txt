@@ -1,0 +1,434 @@
+Creating deviceslogfile
+Computer Name (0jO): DESKTOP-UTO36DL
+*************************************************************************************
+Controller 1 : E8D0FCDA1084
+
+*************************************************************************************
+   Classic paired devices
+****Device 1: 7B:5B:9C:3B:F6:B6 *****
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('COD', 3408900, 4)
+    Info ('HostSupportedFeaturesMap', 1, 11)
+    Info ('LMPFeatures', 9473653357492960959, 11)
+    Info ('ManufacturerId', 1494, 4)
+    Info ('LmpVersion', 8, 4)
+    Info ('LmpSubversion', 12576, 4)
+    Info ('LastSeen', 133690057373512042, 11)
+    Info ('LastConnected', 133690057373512042, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCap', 1, 4)
+    Info ('FingerprintTimestamp', 133702305878190000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:08;05D6;3120;83792D88FA8DFEBF;340404;0CB32F1A96404B41;A8697AD4825DE39F;05D6;000A;0000;00;0000;0000;00;0000000000000000;FF084737D59D71F7;', 1)
+    Info ('Name', b'TG525\x00', 3)
+    Info ('VID', 1494, 4)
+    Info ('PID', 10, 4)
+    Info ('VIDType', 1, 4)
+    Info ('Version', 0, 4)
+    Info ('Services')
+    *Formated info: {'MAC': '7B5B9C3BF6B6', 'Name': 'TG525', 'Appearance': '', 'AddressType': '', 'VID': 1494, 'PID': 10, 'Version': 0, 'Services': ''}
+    +
+
+------------- E8:D0:FC:DA:10:84\7B:5B:9C:3B:F6:B6 -------------
+File Content [General]
+Name=TG525
+Class=0x240404
+AddressType=public
+SupportedTechnologies=BR/EDR;LE;
+Trusted=true
+Blocked=false
+Services=
+
+[LinkKey]
+Key=3AC057F686FFD936148138F3BD662A27
+Type=4
+PINLength=0
+
+[DeviceID]
+Source=1
+Vendor=1494
+Product=10
+Version=0
+----------------------------------------------------------------
+****Device 2: E9:6C:59:9D:00:4D *****
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('COD', 2360324, 4)
+    Info ('HostSupportedFeaturesMap', 1, 11)
+    Info ('LMPFeatures', 9473671293276389055, 11)
+    Info ('ManufacturerId', 1494, 4)
+    Info ('LmpVersion', 10, 4)
+    Info ('LmpSubversion', 8891, 4)
+    Info ('LastSeen', 133690128992300927, 11)
+    Info ('LastConnected', 133690128992300927, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCap', 1, 4)
+    Info ('FingerprintTimestamp', 133690057292490000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:0A;05D6;22BB;83793DD8FA8DFEBF;240404;9F54AA3404C80C00;A4FF596E6F86D562;05D6;000A;0000;00;0000;0000;00;0000000000000000;FF084737D59D71F7;', 1)
+    Info ('Name', b'K11\x00', 3)
+    Info ('VID', 1494, 4)
+    Info ('PID', 10, 4)
+    Info ('VIDType', 1, 4)
+    Info ('Version', 0, 4)
+    Info ('Services')
+    *Formated info: {'MAC': 'E96C599D004D', 'Name': 'K11', 'Appearance': '', 'AddressType': '', 'VID': 1494, 'PID': 10, 'Version': 0, 'Services': ''}
+    +
+
+------------- E8:D0:FC:DA:10:84\E9:6C:59:9D:00:4D -------------
+File Content [General]
+Name=K11
+Class=0x240404
+AddressType=public
+SupportedTechnologies=BR/EDR;LE;
+Trusted=true
+Blocked=false
+Services=
+
+[LinkKey]
+Key=71BFAB6387A0AAE284A987AC0A1F3702
+Type=4
+PINLength=0
+
+[DeviceID]
+Source=1
+Vendor=1494
+Product=10
+Version=0
+----------------------------------------------------------------
+****Device 3: 58:20:71:AB:CB:ED *****
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('COD', 5898764, 4)
+    Info ('HostSupportedFeaturesMap', 11, 11)
+    Info ('LMPFeatures', 9753670738334531263, 11)
+    Info ('ManufacturerId', 70, 4)
+    Info ('LmpVersion', 11, 4)
+    Info ('LmpSubversion', 0, 4)
+    Info ('LastSeen', 133696907581755978, 11)
+    Info ('LastConnected', 133696907581755978, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCap', 1, 4)
+    Info ('Name', b'Galaxy A14 5G\x00', 3)
+    Info ('LocalEvaldIoCapLE', 255, 4)
+    Info ('LEAppearance', 0, 4)
+    Info ('LEAddressType', 0, 4)
+    Info ('VID', 117, 4)
+    Info ('PID', 256, 4)
+    Info ('VIDType', 1, 4)
+    Info ('Version', 0, 4)
+    Info ('FingerprintTimestamp', 133701347903780000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:0B;0046;0000;875BFFDBFE8D3EBF;5A020C;3D12C08C01D976BF;9B1F0F3E8E1F5895;0075;0100;0000;02;0075;0000;00;00000000000000FD;FF084737D59D71F7;', 1)
+    Info ('LEName', b'Galaxy', 3)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': '582071ABCBED', 'Name': 'Galaxy', 'Appearance': '0x0', 'AddressType': 'public', 'VID': 117, 'PID': 256, 'Version': 0, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb'}
+    +
+
+------------- E8:D0:FC:DA:10:84\58:20:71:AB:CB:ED -------------
+File Content [General]
+Name=Galaxy
+Class=0x240404
+AddressType=public
+SupportedTechnologies=BR/EDR;LE;
+Trusted=true
+Blocked=false
+Services=
+
+[LinkKey]
+Key=9390C0C868A7AF96D77BC316C7C83CDA
+Type=4
+PINLength=0
+
+[DeviceID]
+Source=1
+Vendor=117
+Product=256
+Version=0
+----------------------------------------------------------------
+*************************************************************************************
+
+  BLE Paired Devices with LTK: 1308AC000DC9 ( 1 )
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('ManufacturerId', 1294, 4)
+    Info ('LmpVersion', 9, 4)
+    Info ('LmpSubversion', 8, 4)
+    Info ('LastSeen', 133700362930373675, 11)
+    Info ('LastConnected', 133700362930373675, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCapLE', 4, 4)
+    Info ('LEName', b'BT5.2 Mouse\x00', 3)
+    Info ('LEAppearance', 962, 4)
+    Info ('LEAddressType', 0, 4)
+    Info ('VID', 4661, 4)
+    Info ('Name', b'BT5.2 Mouse\x00', 3)
+    Info ('LERemoteConnParamsIntervalMax', 6, 4)
+    Info ('LERemoteConnParamsIntervalMin', 6, 4)
+    Info ('PID', 43554, 4)
+    Info ('VIDType', 2, 4)
+    Info ('Version', 1, 4)
+    Info ('LERemoteConnParamsLatency', 32, 4)
+    Info ('LERemoteConnParamsLSTO', 300, 4)
+    Info ('FingerprintTimestamp', 133702379504740000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:09;050E;0008;0000000000000000;000000;D43BAA1A4C60AE42;0000000000000000;1235;AA22;0001;04;0000;03C2;00;0000000000000001;FF084737D59D71F7;', 1)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb, 0000180a-0000-1000-8000-00805f9b34fb, 0000180f-0000-1000-8000-00805f9b34fb, 00001812-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': '1308AC000DC9', 'Name': 'BT5.2 Mouse', 'Appearance': '0x3c2', 'AddressType': 'public', 'VID': 4661, 'PID': 43554, 'Version': 1, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb'}
+    +
+    Keys* ('LTK', 33221166554499887722110055443366, 3)
+    Keys*  ('KeyLength', 16, 4)
+    Keys*  ('ERand', 10786708395008198176, 11)
+    Keys*  ('EDIV', 58524, 4)
+    Keys  ('AuthReq', 45, 4)
+    *Formated keys: {'MAC': '1308AC000DC9', 'LTK': '33221166554499887722110055443366', 'EDIV': 58524, 'ERand': 10786708395008198176, 'KeyLength': 16}
+
+**************E8:D0:FC:DA:10:84\13:08:AC:00:0D:C9*******************
+[General]
+Name=BT5.2 Mouse
+Appearance=0x3c2
+AddressType=public
+SupportedTechnologies=LE;
+Trusted=true
+Blocked=false
+WakeAllowed=true
+Services=00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb;
+
+[LongTermKey]
+Key=33221166554499887722110055443366
+Authenticated=0
+EncSize=16
+EDiv=58524
+Rand=10786708395008198176
+
+[DeviceID]
+Source=2
+Vendor=4661
+Product=43554
+Version=1
+-----------Device file created succesfully.-------------
+*************************************************************************************
+
+  BLE Paired Devices with LTK: 1308AC000EEF ( 2 )
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('ManufacturerId', 1294, 4)
+    Info ('LmpVersion', 9, 4)
+    Info ('LmpSubversion', 8, 4)
+    Info ('LastSeen', 133702744585430749, 11)
+    Info ('LastConnected', 133702744585430749, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCapLE', 4, 4)
+    Info ('LEName', b'BT5.2 Mouse\x00', 3)
+    Info ('LEAppearance', 962, 4)
+    Info ('LEAddressType', 0, 4)
+    Info ('Name', b'BT5.2 Mouse\x00', 3)
+    Info ('VID', 4661, 4)
+    Info ('PID', 43554, 4)
+    Info ('VIDType', 2, 4)
+    Info ('Version', 1, 4)
+    Info ('LERemoteConnParamsIntervalMax', 6, 4)
+    Info ('LERemoteConnParamsIntervalMin', 6, 4)
+    Info ('LERemoteConnParamsLatency', 32, 4)
+    Info ('LERemoteConnParamsLSTO', 300, 4)
+    Info ('FingerprintTimestamp', 133702836692030000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:09;050E;0008;0000000000000000;000000;D43BAA1A4C60AE42;0000000000000000;1235;AA22;0001;04;0000;03C2;00;0000000000000001;FF084737D59D71F7;', 1)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb, 0000180a-0000-1000-8000-00805f9b34fb, 0000180f-0000-1000-8000-00805f9b34fb, 00001812-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': '1308AC000EEF', 'Name': 'BT5.2 Mouse', 'Appearance': '0x3c2', 'AddressType': 'public', 'VID': 4661, 'PID': 43554, 'Version': 1, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb'}
+    +
+    Keys* ('LTK', 33221166554499887722110055443366, 3)
+    Keys*  ('KeyLength', 16, 4)
+    Keys*  ('ERand', 5812552048236139250, 11)
+    Keys*  ('EDIV', 7907, 4)
+    Keys  ('AuthReq', 45, 4)
+    *Formated keys: {'MAC': '1308AC000EEF', 'LTK': '33221166554499887722110055443366', 'EDIV': 7907, 'ERand': 5812552048236139250, 'KeyLength': 16}
+
+**************E8:D0:FC:DA:10:84\13:08:AC:00:0E:EF*******************
+[General]
+Name=BT5.2 Mouse
+Appearance=0x3c2
+AddressType=public
+SupportedTechnologies=LE;
+Trusted=true
+Blocked=false
+WakeAllowed=true
+Services=00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb;
+
+[LongTermKey]
+Key=33221166554499887722110055443366
+Authenticated=0
+EncSize=16
+EDiv=7907
+Rand=5812552048236139250
+
+[DeviceID]
+Source=2
+Vendor=4661
+Product=43554
+Version=1
+-----------Device file created succesfully.-------------
+*************************************************************************************
+
+  BLE Paired Devices with LTK: 582071ABCBED ( 3 )
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('COD', 5898764, 4)
+    Info ('HostSupportedFeaturesMap', 11, 11)
+    Info ('LMPFeatures', 9753670738334531263, 11)
+    Info ('ManufacturerId', 70, 4)
+    Info ('LmpVersion', 11, 4)
+    Info ('LmpSubversion', 0, 4)
+    Info ('LastSeen', 133696907581755978, 11)
+    Info ('LastConnected', 133696907581755978, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCap', 1, 4)
+    Info ('Name', b'Galaxy A14 5G\x00', 3)
+    Info ('LocalEvaldIoCapLE', 255, 4)
+    Info ('LEAppearance', 0, 4)
+    Info ('LEAddressType', 0, 4)
+    Info ('VID', 117, 4)
+    Info ('PID', 256, 4)
+    Info ('VIDType', 1, 4)
+    Info ('Version', 0, 4)
+    Info ('FingerprintTimestamp', 133701347903780000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:0B;0046;0000;875BFFDBFE8D3EBF;5A020C;3D12C08C01D976BF;9B1F0F3E8E1F5895;0075;0100;0000;02;0075;0000;00;00000000000000FD;FF084737D59D71F7;', 1)
+    Info ('LEName', b'Galaxy', 3)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': '582071ABCBED', 'Name': 'Galaxy', 'Appearance': '0x0', 'AddressType': 'public', 'VID': 117, 'PID': 256, 'Version': 0, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb'}
+    +
+    Keys* ('LTK', 9AB07FBA8E61A9E5A2B4606EBA65B41D, 3)
+    Keys*  ('KeyLength', 16, 4)
+    Keys*  ('ERand', 0, 11)
+    Keys*  ('EDIV', 0, 4)
+    Keys* ('IRK', 718D197008A16DFA036D0EF53DAFFBB8, 3)
+    Keys  ('Address', 96896369282029, 11)
+    Keys  ('AddressType', 0, 4)
+    Keys* ('CSRKInbound', CDF82AADB9516D368DCB789ED0FF4F8F, 3)
+    Keys  ('InboundSignCounter', 18446744073709551615, 11)
+    Keys* ('CSRK', 5A06597FC06EE3B38E497C4EE1C128D6, 3)
+    Keys  ('OutboundSignCounter', 0, 4)
+    Keys  ('MasterIRKStatus', 1, 4)
+    Keys  ('AuthReq', 32, 4)
+    *Formated keys: {'MAC': '582071ABCBED', 'LTK': '9AB07FBA8E61A9E5A2B4606EBA65B41D', 'EDIV': 0, 'ERand': 0, 'KeyLength': 16, 'IRK': '718D197008A16DFA036D0EF53DAFFBB8', 'CSRKInbound': 'CDF82AADB9516D368DCB789ED0FF4F8F', 'CSRK': '5A06597FC06EE3B38E497C4EE1C128D6'}
+
+**************E8:D0:FC:DA:10:84\58:20:71:AB:CB:ED*******************
+[General]
+Name=Galaxy
+Appearance=0x0
+AddressType=public
+SupportedTechnologies=LE;
+Trusted=true
+Blocked=false
+WakeAllowed=true
+Services=00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;
+
+[LongTermKey]
+Key=9AB07FBA8E61A9E5A2B4606EBA65B41D
+Authenticated=0
+EncSize=16
+EDiv=0
+Rand=0
+
+[DeviceID]
+Source=2
+Vendor=117
+Product=256
+Version=0
+
+[IdentityResolvingKey]
+Key=718D197008A16DFA036D0EF53DAFFBB8
+
+[RemoteSignatureKey]
+Key=CDF82AADB9516D368DCB789ED0FF4F8F
+Counter=0
+Authenticated=true
+
+[LocalSignatureKey]
+Key=5A06597FC06EE3B38E497C4EE1C128D6
+Counter=0
+Authenticated=true
+
+[PeripheralLongTermKey]
+Key=9AB07FBA8E61A9E5A2B4606EBA65B41D
+Authenticated=3
+EncSize=16
+EDiv=0
+Rand=0
+
+[SlaveLongTermKey]
+Key=9AB07FBA8E61A9E5A2B4606EBA65B41D
+Authenticated=3
+EncSize=16
+EDiv=0
+Rand=0
+
+[LinkKey]
+Key=71BFAB6387A0AAE284A987AC0A1F3702
+Type=8
+PINLength=0
+-----------Device file created succesfully.-------------
+*************************************************************************************
+
+  BLE Paired Devices with LTK: DFE5B10BB604 ( 4 )
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('ManufacturerId', 89, 4)
+    Info ('LmpVersion', 8, 4)
+    Info ('LmpSubversion', 128, 4)
+    Info ('LastSeen', 133697952546598111, 11)
+    Info ('LastConnected', 133697952546598111, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCapLE', 4, 4)
+    Info ('LEName', b'Modern Mobile Mouse\x00', 3)
+    Info ('LEAppearance', 962, 4)
+    Info ('LEAddressType', 1, 4)
+    Info ('Name', b'Modern Mobile Mouse\x00', 3)
+    Info ('VID', 1118, 4)
+    Info ('PID', 2087, 4)
+    Info ('VIDType', 2, 4)
+    Info ('Version', 259, 4)
+    Info ('FingerprintTimestamp', 133697880846930000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:08;0059;0080;0000000000000000;000000;E1A2850313965C68;0000000000000000;045E;0827;0103;05;0006;03C2;00;0000000000000001;FF084737D59D71F7;', 1)
+    Info ('LERemoteConnParamsIntervalMax', 6, 4)
+    Info ('LERemoteConnParamsIntervalMin', 6, 4)
+    Info ('LERemoteConnParamsLatency', 60, 4)
+    Info ('LERemoteConnParamsLSTO', 300, 4)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb, 0000180a-0000-1000-8000-00805f9b34fb, 0000180f-0000-1000-8000-00805f9b34fb, 00001812-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': 'DFE5B10BB604', 'Name': 'Modern Mobile Mouse', 'Appearance': '0x3c2', 'AddressType': 'static', 'VID': 1118, 'PID': 2087, 'Version': 259, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb'}
+    +
+    Keys* ('LTK', 215D5D0AF0CE2FBF5022B2F54795594F, 3)
+    Keys*  ('KeyLength', 16, 4)
+    Keys*  ('ERand', 16213861794995474352, 11)
+    Keys*  ('EDIV', 35240, 4)
+    Keys  ('MasterIRKStatus', 1, 4)
+    Keys  ('AuthReq', 45, 4)
+    *Formated keys: {'MAC': 'DFE5B10BB604', 'LTK': '215D5D0AF0CE2FBF5022B2F54795594F', 'EDIV': 35240, 'ERand': 16213861794995474352, 'KeyLength': 16}
+
+**************E8:D0:FC:DA:10:84\DF:E5:B1:0B:B6:04*******************
+[General]
+Name=Modern Mobile Mouse
+Appearance=0x3c2
+AddressType=static
+SupportedTechnologies=LE;
+Trusted=true
+Blocked=false
+WakeAllowed=true
+Services=00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb;
+
+[LongTermKey]
+Key=215D5D0AF0CE2FBF5022B2F54795594F
+Authenticated=0
+EncSize=16
+EDiv=35240
+Rand=16213861794995474352
+
+[DeviceID]
+Source=2
+Vendor=1118
+Product=2087
+Version=259
+-----------Device file created succesfully.-------------
