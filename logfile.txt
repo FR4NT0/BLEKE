@@ -1,0 +1,168 @@
+Creating deviceslogfile
+Computer Name (0jO): DESKTOP-UTO36DL
+*************************************************************************************
+Controller 1 : E8D0FCDA1084
+
+*************************************************************************************
+*************************************************************************************
+
+  BLE Paired Devices with LTK: 582071ABCBED ( 1 )
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('COD', 5898764, 4)
+    Info ('HostSupportedFeaturesMap', 11, 11)
+    Info ('LMPFeatures', 9753670738334531263, 11)
+    Info ('ManufacturerId', 0, 4)
+    Info ('LmpVersion', 0, 4)
+    Info ('LmpSubversion', 0, 4)
+    Info ('LastSeen', 133704010333870449, 11)
+    Info ('LastConnected', 133704010252761743, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCap', 1, 4)
+    Info ('LocalEvaldIoCapLE', 255, 4)
+    Info ('LEAppearance', 0, 4)
+    Info ('LEAddressType', 0, 4)
+    Info ('VID', 117, 4)
+    Info ('PID', 256, 4)
+    Info ('VIDType', 1, 4)
+    Info ('Version', 0, 4)
+    Info ('FingerprintTimestamp', 133703632687060000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:0B;0046;0000;875BFFDBFE8D3EBF;5A020C;3D12C08C01D976BF;9B1F0F3E8E1F5895;0075;0100;0000;00;FFFF;0000;00;0000000000000000;FF084737D59D71F7;', 1)
+    Info ('Name', b'Galaxy A14 5G\x00', 3)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': '582071ABCBED', 'Name': 'Galaxy A14 5G', 'Appearance': '0x0', 'AddressType': 'public', 'VID': 117, 'PID': 256, 'Version': 0, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb'}
+    +
+    Keys* ('LTK', 66AEE0B96C703405F9B25FC9967A7712, 3)
+    Keys*  ('KeyLength', 16, 4)
+    Keys*  ('ERand', 0, 11)
+    Keys*  ('EDIV', 0, 4)
+    Keys* ('IRK', 718D197008A16DFA036D0EF53DAFFBB8, 3)
+    Keys  ('Address', 96896369282029, 11)
+    Keys  ('AddressType', 0, 4)
+    Keys* ('CSRKInbound', F1D46B02DB91BFE54142C42E8D974DB0, 3)
+    Keys  ('InboundSignCounter', 18446744073709551615, 11)
+    Keys* ('CSRK', 5AC07051A2614197A9185E3EE7BB30E7, 3)
+    Keys  ('OutboundSignCounter', 0, 4)
+    Keys  ('MasterIRKStatus', 1, 4)
+    Keys  ('AuthReq', 32, 4)
+    *Formated keys: {'MAC': '582071ABCBED', 'LTK': '66AEE0B96C703405F9B25FC9967A7712', 'EDIV': 0, 'ERand': 0, 'KeyLength': 16, 'IRK': '718D197008A16DFA036D0EF53DAFFBB8', 'CSRKInbound': 'F1D46B02DB91BFE54142C42E8D974DB0', 'CSRK': '5AC07051A2614197A9185E3EE7BB30E7'}
+
+**************E8:D0:FC:DA:10:84\58:20:71:AB:CB:ED*******************
+[General]
+Name=Galaxy A14 5G
+Appearance=0x0
+AddressType=public
+SupportedTechnologies=LE;
+Trusted=true
+Blocked=false
+WakeAllowed=true
+Services=00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;
+
+[LongTermKey]
+Key=66AEE0B96C703405F9B25FC9967A7712
+Authenticated=0
+EncSize=16
+EDiv=0
+Rand=0
+
+[DeviceID]
+Source=2
+Vendor=117
+Product=256
+Version=0
+
+[IdentityResolvingKey]
+Key=718D197008A16DFA036D0EF53DAFFBB8
+
+[RemoteSignatureKey]
+Key=F1D46B02DB91BFE54142C42E8D974DB0
+Counter=0
+Authenticated=true
+
+[LocalSignatureKey]
+Key=5AC07051A2614197A9185E3EE7BB30E7
+Counter=0
+Authenticated=true
+
+[PeripheralLongTermKey]
+Key=66AEE0B96C703405F9B25FC9967A7712
+Authenticated=3
+EncSize=16
+EDiv=0
+Rand=0
+
+[SlaveLongTermKey]
+Key=66AEE0B96C703405F9B25FC9967A7712
+Authenticated=3
+EncSize=16
+EDiv=0
+Rand=0
+
+[LinkKey]
+Key=B95326D9FEB58AA2FF17BAF8A476C2ED
+Type=8
+PINLength=0
+-----------Device file created succesfully.-------------
+*************************************************************************************
+
+  BLE Paired Devices with LTK: DFE5B10DB604 ( 2 )
+
+    Info ('DibServiceVersion', 131072, 4)
+    Info ('ManufacturerId', 89, 4)
+    Info ('LmpVersion', 8, 4)
+    Info ('LmpSubversion', 128, 4)
+    Info ('LastSeen', 133704029797837911, 11)
+    Info ('LastConnected', 133704029797837911, 11)
+    Info ('FriendlyName', b'\x00', 3)
+    Info ('LocalEvaldIoCapLE', 4, 4)
+    Info ('LEAppearance', 962, 4)
+    Info ('LEAddressType', 1, 4)
+    Info ('Name', b'Modern Mobile Mouse\x00', 3)
+    Info ('LEName', b'Modern Mobile Mouse\x00', 3)
+    Info ('VID', 1118, 4)
+    Info ('PID', 2087, 4)
+    Info ('VIDType', 2, 4)
+    Info ('Version', 259, 4)
+    Info ('FingerprintTimestamp', 133703628475940000, 11)
+    Info ('FingerprintVersion', 2, 4)
+    Info ('FingerprintString', 'Fingerprint:08;0059;0080;0000000000000000;000000;E1A2850313965C68;0000000000000000;045E;0827;0103;05;0006;03C2;00;0000000000000001;FF084737D59D71F7;', 1)
+    Info ('LERemoteConnParamsIntervalMax', 6, 4)
+    Info ('LERemoteConnParamsIntervalMin', 6, 4)
+    Info ('LERemoteConnParamsLatency', 60, 4)
+    Info ('LERemoteConnParamsLSTO', 300, 4)
+    Info ('Services', 00001800-0000-1000-8000-00805f9b34fb, 00001801-0000-1000-8000-00805f9b34fb, 0000180a-0000-1000-8000-00805f9b34fb, 0000180f-0000-1000-8000-00805f9b34fb, 00001812-0000-1000-8000-00805f9b34fb)
+    *Formated info: {'MAC': 'DFE5B10DB604', 'Name': 'Modern Mobile Mouse', 'Appearance': '0x3c2', 'AddressType': 'static', 'VID': 1118, 'PID': 2087, 'Version': 259, 'Services': '00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb'}
+    +
+    Keys* ('LTK', F926C59DB656EA73410A95C4229AD33F, 3)
+    Keys*  ('KeyLength', 16, 4)
+    Keys*  ('ERand', 7552872943690607367, 11)
+    Keys*  ('EDIV', 52789, 4)
+    Keys  ('MasterIRKStatus', 1, 4)
+    Keys  ('AuthReq', 45, 4)
+    *Formated keys: {'MAC': 'DFE5B10DB604', 'LTK': 'F926C59DB656EA73410A95C4229AD33F', 'EDIV': 52789, 'ERand': 7552872943690607367, 'KeyLength': 16}
+
+**************E8:D0:FC:DA:10:84\DF:E5:B1:0D:B6:04*******************
+[General]
+Name=Modern Mobile Mouse
+Appearance=0x3c2
+AddressType=static
+SupportedTechnologies=LE;
+Trusted=true
+Blocked=false
+WakeAllowed=true
+Services=00001800-0000-1000-8000-00805f9b34fb;00001801-0000-1000-8000-00805f9b34fb;0000180a-0000-1000-8000-00805f9b34fb;0000180f-0000-1000-8000-00805f9b34fb;00001812-0000-1000-8000-00805f9b34fb;
+
+[LongTermKey]
+Key=F926C59DB656EA73410A95C4229AD33F
+Authenticated=0
+EncSize=16
+EDiv=52789
+Rand=7552872943690607367
+
+[DeviceID]
+Source=2
+Vendor=1118
+Product=2087
+Version=259
+-----------Device file created succesfully.-------------

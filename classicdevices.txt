@@ -1,7 +1,7 @@
 
-**************E8:D0:FC:DA:10:84\7B:5B:9C:3B:F6:B6**************
+**************E8:D0:FC:DA:10:84\E4:22:A5:D5:99:6B**************
 [General]
-Name=TG525
+Name=PLT_E50
 Class=0x240404
 AddressType=public
 SupportedTechnologies=BR/EDR;LE;
@@ -10,38 +10,18 @@ Blocked=false
 Services=
 
 [LinkKey]
-Key=3AC057F686FFD936148138F3BD662A27
+Key=FA627B6175A8C66F4804DCFC748CEB33
 Type=4
 PINLength=0
 
 [DeviceID]
 Source=1
-Vendor=1494
-Product=10
-Version=0
-**************E8:D0:FC:DA:10:84\E9:6C:59:9D:00:4D**************
-[General]
-Name=K11
-Class=0x240404
-AddressType=public
-SupportedTechnologies=BR/EDR;LE;
-Trusted=true
-Blocked=false
-Services=
-
-[LinkKey]
-Key=71BFAB6387A0AAE284A987AC0A1F3702
-Type=4
-PINLength=0
-
-[DeviceID]
-Source=1
-Vendor=1494
-Product=10
+Vendor=15
+Product=0
 Version=0
 **************E8:D0:FC:DA:10:84\58:20:71:AB:CB:ED**************
 [General]
-Name=Galaxy
+Name=Galaxy A14 5G
 Class=0x240404
 AddressType=public
 SupportedTechnologies=BR/EDR;LE;
@@ -50,7 +30,7 @@ Blocked=false
 Services=
 
 [LinkKey]
-Key=9390C0C868A7AF96D77BC316C7C83CDA
+Key=B95326D9FEB58AA2FF17BAF8A476C2ED
 Type=4
 PINLength=0
 
