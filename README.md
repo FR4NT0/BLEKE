@@ -1,9 +1,11 @@
 Welcome to the BLEKE project.
 
-This project was developed as part of an investigation to find out if it was possible to extract BLE pairing keys from a Windows device and impersonate it from a Linux device against those paired devices.
+This project was developed as part of an investigation to find out if it was possible to extract paired BLE devices information from a Windows device and gain access to them from an unrelated Linux device.
 
-BLEKE BLE Keys extractor simplifies the extraction of the pairing information from Windows registry and converts it into Linux Ubunty Bluetooth configuration files format.
-Print and store the information retrieved from the BLE devices
+BLEKE BLE Keys extractor simplifies the extraction of the pairing information from Windows registry and converts it into Linux Ubuntu Bluetooth configuration files format.
+Print and store the information retrieved from the paired BLE devices
+
+NOTE: SYSTEM privileges required.
 
 BLEKE options
 default option print the information of paired BLE devices on the screen
