@@ -1,7 +1,10 @@
 Print and store the information retrieved from the BLE devices
 
 BLEKE: BLE Keys Extractor extracts the keys of the BLE devices stored in a Windows machine and saves it 
+
+
 into files following the format of the Linux Bluetooth configuration.\n\nJust execute BLEKE.exe to run 
+
 the program.\n")
 "-i", "--info", help="Shows more info"
 "-n", "--noscreen", help="Stop printing logs on screen"
