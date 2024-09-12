@@ -17,6 +17,7 @@ default option print the information of paired BLE devices on the screen
 
 "-c", "--classicdeviceslog": Write extracted classic devices info and keys into a file.
 
-"-s", "--script": Write the script (.sh) to create the filesystem (controller folder, device folder and "info" file) required to add the BLE devices in Linux.
+"-s", "--script": Write the script (.sh) to create the filesystem (controller folder, device folder and "info" file) required to add the BLE devices in Linux. NOTE: This bash script needs to be converted to Unix format before executing so it needs to run "sed -i 's/\r$//' BLEscript.sh” to convert the line endings.
 
+Files examples are included in the project.
 
